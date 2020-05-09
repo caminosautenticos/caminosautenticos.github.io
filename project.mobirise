@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "legal.html",
+    "currentPage": "ES-index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -476,7 +476,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-6c"
         },
@@ -7535,7 +7535,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(+34)  644 288 435</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ES-index.html\" data-toolbar=\"-mbrBtnMove\">(+34)  644 288 435</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-8r"
         },
@@ -9432,7 +9432,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"DE-index.html\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-a2"
         },
