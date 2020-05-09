@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "cookies.html",
+    "currentPage": "legal.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6468,7 +6468,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "COOKIES [<a href=\"cookies.html#header3-7k\">EN</a>] [<a href=\"cookies.html#header3-7j\">ES</a>]",
+          "title": "COOKIES&nbsp;",
           "meta": "A special form to enjoy and visit Spain.",
           "_tags": [
             "Theme"
@@ -6633,7 +6633,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "PRIVACY [<a href=\"Cookies.html#header3-7k\">EN</a>] [<a href=\"Cookies.html#header3-7j\">ES</a>]",
+          "title": "PRIVACY",
           "meta": "A special form to enjoy and visit Spain.",
           "_tags": [
             "Theme"
@@ -6889,7 +6889,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "LEGAL [<a href=\"Cookies.html#header3-7k\">EN</a>] [<a href=\"Cookies.html#header3-7j\">ES</a>]",
+          "title": "LEGAL",
           "meta": "A special form to enjoy and visit Spain.",
           "_tags": [
             "Theme"
