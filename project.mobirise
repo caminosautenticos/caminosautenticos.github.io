@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "index.html",
+    "currentPage": "cookies.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -6468,7 +6468,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "COOKIES [<a href=\"Cookies.html#header3-7k\">EN</a>] [<a href=\"Cookies.html#header3-7j\">ES</a>]",
+          "title": "COOKIES [<a href=\"cookies.html#header3-7k\">EN</a>] [<a href=\"cookies.html#header3-7j\">ES</a>]",
           "meta": "A special form to enjoy and visit Spain.",
           "_tags": [
             "Theme"
