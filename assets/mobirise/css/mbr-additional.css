@@ -682,21 +682,29 @@ section.form .container {
   color: #ffffff;
   text-align: left;
 }
-#testimonials1-9r .mbr-author-desc {
-  color: #ffffff;
+#testimonials2-bg .mbr-section-subtitle {
+  font-size: 23px;
+  color: #131e40;
 }
-#testimonials1-9r .mbr-author-name {
-  font-size: 24px;
-  color: #ffffff;
+#testimonials2-bg .mbr-author-name {
+  font-size: 23px;
+  color: #131e40;
 }
-#testimonials1-9r .mbr-section-title {
-  color: #ffffff;
-  text-align: left;
-  font-size: 60px;
+#testimonials2-bg .mbr-section-title {
+  color: #131e40;
 }
-#testimonials1-9r .mbr-section-subtitle {
+#msg-box3-b5 .mbr-section-title,
+#msg-box3-b5 .lead {
+  color: #000;
+}
+#msg-box3-b5 .lead P {
+  font-size: 20px;
+}
+#msg-box3-b5 .mbr-section-title SPAN {
+  font-size: 32px;
+}
+#msg-box3-b5 .mbr-section-title {
   color: #ffffff;
-  font-size: 36px;
   text-align: left;
 }
 #header3-6n .mbr-section-title,
@@ -706,6 +714,7 @@ section.form .container {
 #header3-6n .mbr-section-subtitle {
   font-size: 23px;
   color: #000000;
+  text-align: left;
 }
 #header3-6n .mbr-section-title {
   color: #000000;
@@ -1788,6 +1797,45 @@ section.form .container {
   text-align: left;
   font-size: 36px;
 }
+#msg-box3-bi .mbr-section-title,
+#msg-box3-bi .lead {
+  color: #000;
+}
+#msg-box3-bi .lead P {
+  font-size: 20px;
+}
+#msg-box3-bi .mbr-section-title SPAN {
+  font-size: 32px;
+}
+#msg-box3-bi .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+#testimonials2-bh .mbr-section-subtitle {
+  font-size: 23px;
+  color: #131e40;
+}
+#testimonials2-bh .mbr-author-name {
+  font-size: 23px;
+  color: #131e40;
+}
+#testimonials2-bh .mbr-section-title {
+  color: #131e40;
+}
+#msg-box3-bk .mbr-section-title,
+#msg-box3-bk .lead {
+  color: #000;
+}
+#msg-box3-bk .lead P {
+  font-size: 20px;
+}
+#msg-box3-bk .mbr-section-title SPAN {
+  font-size: 32px;
+}
+#msg-box3-bk .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
 #header3-93 .mbr-section-title,
 #header3-93 .mbr-section-subtitle {
   text-align: center;
@@ -1795,6 +1843,7 @@ section.form .container {
 #header3-93 .mbr-section-subtitle {
   font-size: 23px;
   color: #000000;
+  text-align: left;
 }
 #header3-93 .mbr-section-title {
   color: #000000;
@@ -2021,6 +2070,20 @@ section.form .container {
 #menu-9q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box3-bj .mbr-section-title,
+#msg-box3-bj .lead {
+  color: #000;
+}
+#msg-box3-bj .lead P {
+  font-size: 20px;
+}
+#msg-box3-bj .mbr-section-title SPAN {
+  font-size: 32px;
+}
+#msg-box3-bj .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
 
 #msg-box5-9u P {
   font-size: 24px;
@@ -2234,6 +2297,26 @@ section.form .container {
   text-align: left;
   font-size: 36px;
 }
+#msg-box3-bd .mbr-section-title,
+#msg-box3-bd .lead {
+  color: #000;
+}
+#msg-box3-bd .lead P {
+  font-size: 20px;
+}
+#msg-box3-bd .mbr-section-title SPAN {
+  font-size: 32px;
+}
+#msg-box3-bd .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+#testimonials2-bl .mbr-section-subtitle {
+  font-size: 23px;
+}
+#testimonials2-bl .mbr-author-name {
+  font-size: 23px;
+}
 #msg-box3-ae .mbr-section-title,
 #msg-box3-ae .lead {
   color: #000;
@@ -2248,23 +2331,6 @@ section.form .container {
   color: #ffffff;
   text-align: left;
 }
-#testimonials1-af .mbr-author-desc {
-  color: #ffffff;
-}
-#testimonials1-af .mbr-author-name {
-  font-size: 24px;
-  color: #ffffff;
-}
-#testimonials1-af .mbr-section-title {
-  color: #ffffff;
-  text-align: left;
-  font-size: 60px;
-}
-#testimonials1-af .mbr-section-subtitle {
-  color: #ffffff;
-  font-size: 36px;
-  text-align: left;
-}
 #header3-ag .mbr-section-title,
 #header3-ag .mbr-section-subtitle {
   text-align: center;
@@ -2272,6 +2338,7 @@ section.form .container {
 #header3-ag .mbr-section-subtitle {
   font-size: 23px;
   color: #000000;
+  text-align: left;
 }
 #header3-ag .mbr-section-title {
   color: #000000;

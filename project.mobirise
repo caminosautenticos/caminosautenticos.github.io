@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "legal.html",
+    "currentPage": "DE-index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -23,14 +23,15 @@
       "additionalSetColors": [
         "#615652",
         "#301078",
-        "#131e40"
+        "#131e40",
+        "#c1995b"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 400,
+    "uniqCompNum": 418,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -155,7 +156,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1995b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -291,7 +292,7 @@
               "text": "<p><span style=\"font-style: normal;\"><b>&gt; During centuries different civilizations</b> have left their marks that nowadays are represented in monuments, traditions, music, dance, folklore and gastronomy. On our trips we discover, live and enjoy this cultural diversity visiting restaurants, companies, factories, towns and regions that are not offered on common trips.</span></p><p><span style=\"font-style: normal; font-size: 1.125rem;\"><b>&gt; Whether you travel on your own and want to enjoy</b> a private city tour or half or full day excursion or you prefer doing a roundtrip, we are pleased to design you a personalized program.</span><br></p><p><span style=\"font-style: normal; font-size: 1.125rem;\"><b>&gt; We look forward to attending you and being your personal</b>&nbsp;<b>contact person</b> and interpreter during your trip/stay in Spain. We only collaborate with the best English speaking guides, selected hotels / restaurants and transport companies.</span><br></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1078,8 +1079,8 @@
               "size": 0
             }
           },
-          "title": "We create unique experiences",
-          "text": "We only offer exclusive and high quality standards. ",
+          "title": "Best personal assistance",
+          "text": "On your trip our qualified travel guide is responsible for the perfect development of the program, hotels, restaurants, etc. and is your contact person for all detailed information and is in case of an emergency available during 24 hours. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1146,31 +1147,31 @@
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "showImages": true,
+            "showImages": false,
             "showName": true,
             "showBio": false,
-            "count": "2",
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "count": "4",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sky.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.2
           },
           "title": "Comments",
-          "subtitle": "<b>Customer experiences</b>",
+          "subtitle": "Customer experiences",
           "testimonial": [
             {
-              "authorName": "Abanoub S.",
+              "authorName": "Jan van Reyden",
               "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch).</p>",
+              "text": "<p>“Some friends who had spent a wonderful holiday in Spain recommended us Caminos Auténticos. We booked two private guided tours in Barcelona (Art Nouveau and Tapas and Market Halls). It was an absolutely unique experience we will never forget. Our excellent English speaking local guide did a great job introducing us in Barcelona’s fantastic architecture, history and gourmet sensations. We will definitely use Caminos Auténticos services again.\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1179,12 +1180,40 @@
               }
             },
             {
-              "authorName": "Suffian A.",
+              "authorName": "Susan Williams",
               "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new .”</p>",
+              "text": "<p>“All on the tours we went on were conducted by supremely qualified guides who genuinely enjoyed their craft. I will recommend Caminos Auténticos to everyone who plans to visit Spain.<span style=\"font-size: 1.125rem;\">”</span></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Joe Anderson",
+              "authorBio": "User",
+              "text": "<p>““Caminos Auténticos designed a great itinerary for us. Every single detail was well-organized and specifically tailored to our interests. We absolutely enjoyed our stay in Spain. Thank you!\".”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Steve Davis",
+              "authorBio": "Developer",
+              "text": "<p>“My family and I were delighted by the Spain vacation itinerary developed by Caminos Auténticos. The hotel recommendations, the restaurant reservations and tours were superb. They balanced active tours with time to recuperate. I would highly recommend their services to all!\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1196,27 +1225,66 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-9r",
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-bg",
           "_styles": {
-            ".mbr-author-desc": {
-              "color": "#ffffff"
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#131e40"
             },
             ".mbr-author-name": {
-              "font-size": "24px",
-              "color": "#ffffff"
+              "font-size": "23px",
+              "color": "#131e40"
+            },
+            ".mbr-section-title": {
+              "color": "#131e40"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "text-align": "left",
-              "font-size": "60px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "36px",
               "text-align": "left"
             }
-          }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-b5"
         },
         {
           "_styles": {
@@ -1225,7 +1293,8 @@
             },
             ".mbr-section-subtitle": {
               "font-size": "23px",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "color": "#000000",
@@ -1235,8 +1304,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "6",
+            "paddingBottom": "6",
             "bgColor": "#ffffff"
           },
           "title": "Some destinations",
@@ -5100,7 +5169,7 @@
               "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\"><b>&gt; Durante siglos, diferentes civilizaciones han dejado sus huellas</b> de su legado por los diferentes rincones geográficos que delimitan sus fronteras;&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">representadas éstas en el esculpido de la piedra de sus monumentos,&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">lugares emblemáticos y ciudades, donde a día de hoy persiste el aroma&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">de los tiempos ancestrales tanto en costumbres como en cánticos,&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">danzas y folclore que los define con poder embaucador de sumergir al&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">visitante en épocas del pasado. Le proponemos viajar a las regiones de mayor interés dependiendo de las necesidades del cliente, visitando empresas, instituciones, monumentos, lugares emblemáticos, ciudades, restaurantes y bares típicos e incluso ofreciendo recorridos por espacios naturales...todos ellos al exilio de los circuitos turísticos promovidos por las grandes operadoras que&nbsp;</span><span style=\"font-style: normal; font-size: 1.125rem;\">promueven la afluencia masiva de personas.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\"><b>&gt; Además de las atracciones culturales, gastronómicas y escénicas, </b>hay muchas actividades de ocio en las siguientes áreas: bienestar, entretenimiento deportivo. Ya sea que viaje por su cuenta y quiera disfrutar de un recorrido privado por la ciudad o una excursión de medio día o día completo o si prefiere hacer un viaje de ida y vuelta, nos complace diseñarle un programa personalizado.</span></p><p>&nbsp; &nbsp; <span style=\"font-style: normal;\"><b>&gt; Esperamos poder atenderlo y ser su persona de contacto personal </b>durante su viaje o estancia en España. Solo colaboramos con los mejores guías, hoteles y restaurantes seleccionados y empresas de transporte.</span></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -5887,8 +5956,8 @@
               "size": 0
             }
           },
-          "title": "Creamos experiencias únicas.",
-          "text": "Sólo ofrecemos exclusividad y calidad. ",
+          "title": "Asistencia personal.",
+          "text": "Durante su viaje su guía cualificado es la persona responsable para el desarrollo perfecto del programa, hoteles, restaurantes etc., además es su persona de contacto para todas las informaciones más detalladas y en caso de emergencia está disponible durante 24 horas. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -5907,13 +5976,160 @@
           "_anchor": "msg-box5-92"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-bi"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "title": "Comentarios",
+          "subtitle": "Experiencias de clientes",
+          "testimonial": [
+            {
+              "authorName": "Cecilio Suárez",
+              "authorBio": "User",
+              "text": "<p>“Gracias a Caminos Auténticos, mi familia y yo pudimos gozar de unas magníficas vacaciones en España. Todo comenzó cuando aterrizamos tras horas de vuelo y desde ese momento, comenzamos a disfrutar de nuestra espléndida estancia. Nuestro guía acompañante estuvo pendiente de nosotros todo el tiempo y nos dio muchas informaciones de interés en los trayectos. Siempre que era posible, optaba por rutas alternativas, en lugar de tomar autopistas. Así, conocimos el paisaje fantástico de este lindo país. En las ciudades disfrutábamos de unas visitas guiadas de primera calidad. Además de los monumentos más emblemáticos, los guías locales nos enseñaron los rincones más curiosos y escondidos. También tuvimos la posibilidad de probar platos típicos de la región. Recomiendo esta agencia a todos los que quieran pasar un tiempo único y especial fuera de las masas, y en el que cada momento en cualquier región o ciudad será un recuerdo inolvidable ¡Muchas gracias por todo!<span style=\"font-size: 1.125rem;\">”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-bh",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "font-size": "23px",
+              "color": "#131e40"
+            },
+            ".mbr-author-name": {
+              "font-size": "23px",
+              "color": "#131e40"
+            },
+            ".mbr-section-title": {
+              "color": "#131e40"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-bk"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
               "font-size": "23px",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "color": "#000000",
@@ -5923,11 +6139,11 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "6",
+            "paddingBottom": "5",
             "bgColor": "#ffffff"
           },
-          "title": "&gt; Algunos destinos",
+          "title": "Algunos destinos",
           "meta": "Una forma diferente de descubrir España.",
           "_tags": [
             "Theme"
@@ -6761,6 +6977,51 @@
           ],
           "_name": "menu",
           "_anchor": "menu-9q"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-bj"
         }
       ]
     },
@@ -6997,7 +7258,7 @@
               "text": "<p><span style=\"font-style: normal;\"><b>&gt; Jahrhundertelang haben verschiedene Völker ihre Spuren </b>hinterlassen, die sich in Bauwerken, Bräuchen, Musik, Tanz, Folklore und Gastronomie widerspiegeln. Auf unseren Reisen entdecken, leben und geniessen wir diese Vielfalt. Wir besuchen Restaurants, Betriebe, Ortschaften und Regionen, die auf herkömmlichen Rundreisen nicht angeboten werden.</span></p><p><span style=\"font-style: normal; font-size: 1.125rem;\"><b>&gt; Ob Sie privat unterwegs sind und Interesse an einer informativen Stadtführung,</b> einem geführten Museums- oder Ausstellungsbesuch, einem gastronomischen Rundgang oder einem begleiteten Halb- oder Ganztagesausflug haben, ob Sie eine komplett organisierte Rundreise machen oder Ihren Mitarbeitern/Kunden etwas Besonderes anbieten möchten, wir beraten Sie gerne und arbeiten ein auf Sie persönlich zugeschnittenes Programm aus.</span><br></p><p><span style=\"font-style: normal; font-size: 1.125rem;\"><b>&gt; Während Ihrer Reise oder Aufenthaltes werden Sie in den besten Händen sein. </b>Wir arbeiten nur mit den besten, perfekt deutschsprechenden Reiseleitern und Stadtführern und mit ausgesuchten Hotels/Restaurants und renommierten Transportunternehmen zusammen.</span><br></p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -7410,7 +7671,7 @@
             }
           },
           "title": "Natur und Trekking",
-          "text": "Spanien besitzt spektakuläre unterschiedliche Landschaften, die den Besucher in seinen Bann ziehen: Berge, beeindruckende Schluchten, Flüsse, weites Flachland, die Küsten des Atlantischen Ozeans und des Mittelmeeres  mit unglaubliche Felsen und wunderschönen Stränden.. Insgesamt gibt es 15 Naturparks, der bekannte ‚Camino de Santiago‘ (Jakobsweg) und hunderte Kilometer von Wanderwegen.",
+          "text": "Spanien besitzt spektakuläre unterschiedliche Landschaften, die den<br>Besucher in seinen Bann ziehen: Berge, beeindruckende Schluchten,<br>Flüsse, weites Flachland, die Küsten des Atlantischen Ozeans und des<br>Mittelmeeres mit beeindruckenden Felsformationen und wunderschönen<br>Stränden.. Insgesamt gibt es 15 Naturparks, der bekannte ‚Camino de<br>Santiago‘ (Jakobsweg) und hunderte Kilometer von Wanderwegen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact US</a>",
           "_tags": [
             "Theme"
@@ -7748,7 +8009,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "56",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -7784,8 +8045,8 @@
               "size": 0
             }
           },
-          "title": "Erleben Sie unvergessliche Momente.",
-          "text": "Unsere Angebote entsprechen nur exklusiven und hohen Qualitäts-Standards.<br>",
+          "title": "Beste persönliche Betreuung",
+          "text": "Auf Ihrer Reise ist unser(e) qualifizierte(r) Reiseleiter(in) die verantwortliche Person für den perfekten Ablauf des Programmes, Hotels, Restaurants etc., Ihr(e) Ansprechpartner(in) für alle Detailinformationen und bei Notfällen 24 Stunden für Sie erreichbar.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -7846,37 +8107,37 @@
           ],
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
-          "_anchor": "msg-box3-ae"
+          "_anchor": "msg-box3-bd"
         },
         {
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
-            "showImages": true,
+            "showImages": false,
             "showName": true,
             "showBio": false,
-            "count": "2",
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sky.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#c0a375",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.2
           },
-          "title": "Reisekommentare&nbsp;",
-          "subtitle": "und -Erfahrungen<br>",
+          "title": "Bemerkungen",
+          "subtitle": "Kundenerlebnisse",
           "testimonial": [
             {
-              "authorName": "Abanoub S.",
+              "authorName": "Reisegruppe Miesche",
               "authorBio": "User",
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch).</p>",
+              "text": "<p>“Wir machen jedes zweite Jahr eine Reise mit unserem Verein, aber noch nie war diese so gut organisiert, durchdacht und auf unsere Wünsche eingegangen, wie unsere Katalonienreise, die von der Agentur Caminos Auténticos ausgearbeitet worden war. Auf der Reise selber waren wir mit unserer exzellenten Reiseleiterin und den bestens deutsch sprechenden lokalen Stadtführern in den besten Händen. Alle haben uns diese interessante Region mit viel Kenntnis, Freude und Elan näher gebracht. Zufrieden, mit vielen wunderschönen Eindrücken und reich an Erfahrung sind wir nach Hause geflogen. Besten Dank!\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -7885,12 +8146,26 @@
               }
             },
             {
-              "authorName": "Suffian A.",
+              "authorName": "Reisegruppe Möller",
               "authorBio": "User",
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new .”</p>",
+              "text": "<p>\"Wir haben eine wunderschöne und gut organisierte Rundreise durch Andalusien geniessen können, die wir nie vergessen werden. Unsere Reiseleiterin Nadine hat uns informativ, charmant und fürsorglich geführt. Herzlichen Dank dafür!\"”</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Petra Hofmann",
+              "authorBio": "User",
+              "text": "<p>Reisebericht über den Ausflug: Mittagessen in einem spanischen Privathaus</p><p><span style=\"font-size: 1.125rem;\">Auf einem Ausflug, der von Caminos Auténticos organisiert wurde, ging es von der Costa del Sol ins bergige Hinterland. Bei einem ersten Stopp wurden wir überrascht mit einer Probe von „Churros con Chocolate“, einem Gebäck, das man in eine süsse, heisse Schokolade tunkt. Herrlich!! Dann ging es weiter hoch durch eine wunderschöne Landschaft in ein nächstes Dorf. Dort hatten wir die Möglichkeit, in einer kleinen Bar einen typischen Kaffee zu probieren (schwarz, mit Milch oder mit Cognac). Auf dem ganzen Wege hat uns die Reiseleiterin viel von Land und Leuten erzählt, wir machten Stopps, um die Flora, Fauna und Aussicht zu bewundern, die uns erklärt wurde und ein Photo bei einem 1200 Jahre alten Olivenbaum zu machen. In einer weiteren kleinen Ortschaft besuchten wir eine kleine Olivenölmühle. Zuerst lernten wir den Prozess der Ölherstellung kennen, danach konnten wir dieses exklusive Olivenöl probieren und wer wollte, direkt dort kaufen. Nach dieser interessanten Erfahrung ging es weiter ins Nebendorf. Und dort wartete eine weitere Überraschung auf uns: Wir wurden in einem uralten Dorfhaus zu einem einem Gläschen Málaga Wein eingeladen. Dazu gab es gesalzene Mandeln, Feigenbrot mit Orangen, getrocknete Feigen, Honig zum Probieren, alles Produkte aus der Gegend. Und nun folgte das eigentliche Ziel dieses Ausfluges: Ein Mittagessen in einem spanischen Privathaus. Eine nette Dame dieses Dorfes holte uns ab und führte uns zu sich nach Hause. Dort wurden wir während 2 Stunden von A-Z mit wunderbaren hausgemachten Speisen und Wein, Wasser, Kaffee und selbstgemachtem Likör verwöhnt. Nach diesem herrlichen Mittagessen und den ganzen tollen Eindrücken haben wir auf der Rückfahrt zufrieden eine Siesta gehalten.</span><br></p><p><span style=\"font-size: 1.125rem;\">Herzlichen Dank an das Team von Caminos Auténticos. Diesen einziartigen Ausflug können wir nur weiterempfehlen.</span><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -7902,27 +8177,61 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-bl",
           "_styles": {
-            ".mbr-author-desc": {
-              "color": "#ffffff"
+            ".mbr-section-subtitle": {
+              "font-size": "23px"
             },
             ".mbr-author-name": {
-              "font-size": "24px",
-              "color": "#ffffff"
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px"
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "text-align": "left",
-              "font-size": "60px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "font-size": "36px",
               "text-align": "left"
             }
           },
-          "_anchor": "testimonials1-af"
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#131e40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-ae"
         },
         {
           "_styles": {
@@ -7931,7 +8240,8 @@
             },
             ".mbr-section-subtitle": {
               "font-size": "23px",
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "color": "#000000",
@@ -7941,8 +8251,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgColor": "#ffffff"
           },
           "title": "Einige Reiseziele",
