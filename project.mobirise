@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "ES-index.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -63,7 +63,7 @@
       "settings": {
         "main": true,
         "title": "Caminos Auténticos Exclusive Quality Tours and Guided Visits in Spain",
-        "meta_descr": "We organize individually specified round trips, exclusive city tours and excursions for small groups.",
+        "meta_descr": "We organize individually specified round trips,\nexclusive city tours, excursions and incentive events.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
