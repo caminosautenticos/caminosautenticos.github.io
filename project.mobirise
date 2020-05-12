@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "DE-index.html",
+    "currentPage": "ES-index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -341,7 +341,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1995b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -589,7 +589,7 @@
             "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#c0a375"
+            "bgColor": "#c1995b"
           },
           "title": "A different way to discover Spain.",
           "meta": "Caminos auténticos S.L.",
@@ -5033,7 +5033,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1995b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5218,7 +5218,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1995b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5466,7 +5466,7 @@
             "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#c0a375"
+            "bgColor": "#c1995b"
           },
           "title": "Una forma diferente de descubrir España.",
           "meta": "Caminos auténticos S.L.",
@@ -5956,7 +5956,7 @@
               "size": 0
             }
           },
-          "title": "Asistencia personal.",
+          "title": "Asistencia personal",
           "text": "Durante su viaje su guía cualificado es la persona responsable para el desarrollo perfecto del programa, hoteles, restaurantes etc., además es su persona de contacto para todas las informaciones más detalladas y en caso de emergencia está disponible durante 24 horas. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -7122,7 +7122,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1995b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7307,7 +7307,7 @@
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1995b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7555,7 +7555,7 @@
             "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#c0a375"
+            "bgColor": "#c1995b"
           },
           "title": "Entdecken Sie Spanien auf besondere Weise.",
           "meta": "Caminos auténticos S.L.",
