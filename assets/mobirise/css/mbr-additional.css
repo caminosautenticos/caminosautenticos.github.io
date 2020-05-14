@@ -2351,6 +2351,9 @@ section.form .container {
 #testimonials2-bl .mbr-author-name {
   font-size: 23px;
 }
+#testimonials2-bl .card-block P {
+  text-align: center;
+}
 #msg-box3-ae .mbr-section-title,
 #msg-box3-ae .lead {
   color: #000;
