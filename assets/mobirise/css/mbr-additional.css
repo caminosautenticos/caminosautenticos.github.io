@@ -561,6 +561,9 @@ section.form .container {
 #msg-box3-6c .lead P {
   font-size: 20px;
 }
+#msg-box5-bw P {
+  font-size: 30px;
+}
 #msg-box3-26 .mbr-section-title,
 #msg-box3-26 .lead {
   color: #000;
@@ -1707,6 +1710,9 @@ section.form .container {
 #msg-box3-8r .lead P {
   font-size: 20px;
 }
+#msg-box5-bx P {
+  font-size: 30px;
+}
 #msg-box3-8s .mbr-section-title,
 #msg-box3-8s .lead {
   color: #000;
@@ -2216,13 +2222,16 @@ section.form .container {
   color: #000;
 }
 #msg-box3-a2 .mbr-section-title {
-  font-size: 32px;
+  font-size: 25px;
 }
 #msg-box3-a2 .btn {
   font-size: 36px;
 }
 #msg-box3-a2 .lead P {
-  font-size: 20px;
+  font-size: 17px;
+}
+#msg-box5-bv P {
+  font-size: 30px;
 }
 #msg-box3-a3 .mbr-section-title,
 #msg-box3-a3 .lead {
