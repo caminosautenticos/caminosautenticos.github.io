@@ -2354,6 +2354,9 @@ section.form .container {
 #testimonials2-bl .card-block P {
   text-align: center;
 }
+#testimonials2-bl .card-block DIV {
+  text-align: center;
+}
 #msg-box3-ae .mbr-section-title,
 #msg-box3-ae .lead {
   color: #000;
