@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Caminos autenticos",
-    "currentPage": "DE-index.html",
+    "currentPage": "ES-index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,7 +31,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 432,
+    "uniqCompNum": 435,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -437,111 +437,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-68"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "font-size": "23px"
-            },
-            ".btn": {
-              "font-size": "22px"
-            },
-            ".lead P": {
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "info@caminosautenticos.com",
-          "text": "<p>Please contact us by email or phone.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-6c"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "38",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logofacebook-512x512.jpg",
-              "link": "https://www.facebook.com/Caminos-Aut%C3%A9nticos-SL-Exclusive-Quality-Tours-and-Guided-Visits-in-Spain-110164694024762/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "FOLLOW US &nbsp;<br>ON FACEBOOK",
-          "text": "<a href=\"https://fb.me/CaminosAutenticosS\">fb.me/CaminosAutenticosSL</a><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/Caminos-Aut%C3%A9nticos-SL-Exclusive-Quality-Tours-and-Guided-Visits-in-Spain-110164694024762/\" data-toolbar=\"-mbrBtnMove\">VISIT OUR FANPAGE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "21px"
-            },
-            "H3": {
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box5-bw"
         },
         {
           "_inherit": "msg-box8",
@@ -1302,6 +1197,50 @@
               "color": "#131e40"
             }
           }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px"
+            },
+            ".btn": {
+              "font-size": "22px"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "info@caminosautenticos.com",
+          "text": "<p>Please contact us by email or phone.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c0"
         },
         {
           "_inherit": "msg-box8",
@@ -5488,111 +5427,6 @@
             ".mbr-section-title, .lead": {
               "color": "#000"
             },
-            ".mbr-section-title": {
-              "font-size": "24px"
-            },
-            ".btn": {
-              "font-size": "22px"
-            },
-            ".lead P": {
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "info@caminosautenticos.com",
-          "text": "<p>Le agradecemos que se pongan en contacto con nosotros por correo electrónico o por teléfono.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ES-index.html\" data-toolbar=\"-mbrBtnMove\">(+34)  644 288 435</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-8r"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "38",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logofacebook-512x512.jpg",
-              "link": "https://www.facebook.com/Caminos-Aut%C3%A9nticos-SL-Exclusive-Quality-Tours-and-Guided-Visits-in-Spain-110164694024762/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SÍGUENOS <br>EN FACEBOOK",
-          "text": "<a href=\"https://fb.me/CaminosAutenticosSL\">fb.me/CaminosAutenticosSL</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/Caminos-Aut%C3%A9nticos-SL-Exclusive-Quality-Tours-and-Guided-Visits-in-Spain-110164694024762/\" data-toolbar=\"-mbrBtnMove\">VISITA NUESTRA FANPAGE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "23px"
-            },
-            "H3": {
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box5-bx"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
             ".lead P": {
               "font-size": "20px"
             },
@@ -6349,6 +6183,50 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-bk"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
+            },
+            ".btn": {
+              "font-size": "22px"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "info@caminosautenticos.com",
+          "text": "<p>Le agradecemos que se pongan en contacto con nosotros por correo electrónico o por teléfono.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"ES-index.html\" data-toolbar=\"-mbrBtnMove\">(+34)  644 288 435</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c1"
         },
         {
           "_params": {
@@ -7744,111 +7622,6 @@
             ".mbr-section-title, .lead": {
               "color": "#000"
             },
-            ".mbr-section-title": {
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "36px"
-            },
-            ".lead P": {
-              "font-size": "17px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "info@caminosautenticos.com",
-          "text": "<p>Gerne stehen wir Ihnen per EMail oder telephonisch zur Verfügung.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"DE-index.html\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-a2"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "38",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logofacebook-512x512.jpg",
-              "link": "https://www.facebook.com/Caminos-Aut%C3%A9nticos-SL-Exclusive-Quality-Tours-and-Guided-Visits-in-Spain-110164694024762/",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "FOLGEN SIE UNS<br>AUF FACEBOOK",
-          "text": "<a href=\"https://fb.me/CaminosAutenticosSL\">fb.me/CaminosAutenticosSL</a>&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/Caminos-Aut%C3%A9nticos-SL-Exclusive-Quality-Tours-and-Guided-Visits-in-Spain-110164694024762/\" data-toolbar=\"-mbrBtnMove\">BESUCHEN SIE UNSERE FANPAGE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "font-size": "23px"
-            },
-            "H3": {
-              "font-size": "32px"
-            }
-          },
-          "_anchor": "msg-box5-bv"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, .lead": {
-              "color": "#000"
-            },
             ".lead P": {
               "font-size": "20px"
             },
@@ -8676,6 +8449,50 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-ae"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "info@caminosautenticos.com",
+          "text": "<p>Gerne stehen wir Ihnen per EMail oder telephonisch zur Verfügung.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"DE-index.html\" data-toolbar=\"-mbrBtnMove\">(+34) 644 288 435</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-c2"
         },
         {
           "_params": {
